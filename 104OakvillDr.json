@@ -1,0 +1,39 @@
+{
+    "Address": "104 Oakvill Dr",
+    "Year built": "1960",
+    "Total units": 6,
+    "Total floors": 3,
+    "Total area": "1000sqft",
+    "Units": [
+        {
+            "Unit No": "TA-A",
+            "Bed rooms": 1,
+            "sqft": 700
+        },
+        {
+            "Unit No": "TA-B",
+            "Bed rooms": 1,
+            "sqft": 750
+        },
+        {
+            "Unit No": "1-A",
+            "Bed rooms": 1,
+            "sqft": 770
+        },
+        {
+            "Unit No": "1-B",
+            "Bed rooms": 2,
+            "sqft": 800
+        },
+        {
+            "Unit No": "2-A",
+            "Bed rooms": 2,
+            "sqft": 850
+        },
+        {
+            "Unit No": "2-B",
+            "Bed rooms": 2,
+            "sqft": 1750
+        }
+    ]
+}

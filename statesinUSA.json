@@ -1,0 +1,102 @@
+[
+    {
+        "state": "pennsylvania",
+        "capital": "harrisburg",
+        "abbreviation": "PA",
+        " population": 13002700,
+        "State Nickname": "keystone state",
+        "Timezone": "EST",
+        "Total Area (Sq Km)": 119280,
+        "state flower": "mountain laurel"
+    },
+    {
+        "state": "california",
+        "capital": "sacramento",
+        "abbreviation": "CA",
+        " population": 39356223,
+        "State Nickname": "golden state",
+        "Time zone": "pacific",
+        "Total Area (Sq Km)": 423967,
+        "state flower": "california poppy"
+    },
+    {
+        "state": "Connecticut",
+        "capital": "hartford",
+        "abbreviation": "CT",
+        " population": 3605944,
+        "State Nickname": "constitution state",
+        "Time zone": "EST",
+        "Total Area (Sq Km)": 14357,
+        "state flower": "mountain laurel"
+    },
+    {
+        "state": "Delaware",
+        "capital": "dover",
+        "abbreviation": "DE",
+        " population": 989948,
+        "State Nickname": "First state",
+        "Time zone": "EST",
+        "Total Area (Sq Km)": 6446,
+        "state flower": "peach blossom"
+    },
+    {
+        "state": "Florida",
+        "capital": "tallahassee",
+        "abbreviation": "FL",
+        " population": 21538187,
+        "State Nickname": "sunshine state",
+        "Time zone": "EST -Central",
+        "Total Area (Sq Km)": 170311,
+        "state flower": "orange blossom"
+    },
+    {
+        "state": "Georgia",
+        "capital": "atlanta",
+        "abbreviation": "GA",
+        " population": 10711908,
+        "State Nickname": "peach state",
+        "Time zone": "EST",
+        "Total Area (Sq Km)": 153911,
+        "state flower": "azalea"
+    },
+    {
+        "state": "New york",
+        "capital": "albany",
+        "abbreviation": "NY",
+        " population": 20201249,
+        "State Nickname": "empire state",
+        "Time zone": "EST",
+        "Total Area (Sq Km)": 141297,
+        "state flower": "rose"
+    },
+    {
+        "state": "new jersey",
+        "capital": "trenton",
+        "abbreviation": "NJ",
+        " population": 9288994,
+        "State Nickname": "garden state",
+        "Time zone": "EST",
+        "Total Area (Sq Km)": 22591,
+        "state flower": "blue violet"
+    },
+    {
+        "state": "Virginia",
+        "capital": "richmond",
+        "abbreviation": "VA",
+        " population": 8631393,
+        "State Nickname": "old domonion state",
+        "Time zone": "EST",
+        "Total Area (Sq Km)": 110787,
+        "state flower": "flowering dogwood"
+    },
+    {
+        "state": "texas",
+        "capital": "austin",
+        "abbreviation": "TX",
+        " population": 29145505,
+        "State Nickname": "lone star state",
+        "Time zone": "mountain,central",
+        "Total Area (Sq Km)": 695622,
+        "state flower": "bluebonnet"
+    }
+]
